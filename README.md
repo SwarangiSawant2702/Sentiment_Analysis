@@ -3,6 +3,18 @@
 ## Project Overview 📝
 This is a **Flipkart Review Sentiment Analysis** web application built using **Flask**. The app scrapes product reviews from Flipkart, classifies them as **Positive** or **Negative** using a fine-tuned **ALBERT model**, stores the results in a **CSV file**, and dynamically extracts and displays the most common **good** and **bad features** mentioned in the reviews. 
 
+# Deployment
+##Step 1 user input
+
+
+https://github.com/user-attachments/assets/0399ddd4-d200-4b72-b029-e1409faeff05
+
+## Step 2 output
+
+
+https://github.com/user-attachments/assets/3c71a1f4-40be-4864-ac51-75f25413c7c8
+
+
 ## 🔧 Technologies Used
 - **Flask**: Web framework for building the application.
 - **Selenium**: Used for web scraping Flipkart product reviews.
